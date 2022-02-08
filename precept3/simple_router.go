@@ -1,6 +1,6 @@
 /*****************************************************************************
  * Description: A simple router for a simple web server.
- *		Uses DeafultServeMux
+ *		Uses DefultServeMux
  *
  *****************************************************************************/
 package main
