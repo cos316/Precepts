@@ -36,7 +36,6 @@ func (s *ItemStack) Push(t int) {
 // Pop removes an int from the top of the stack
 func (s *ItemStack) Pop() int {
         item := s.items[s.n-1]
-        //      s.n = s.n - 1
         return item
 }
 
