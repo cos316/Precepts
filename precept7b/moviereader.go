@@ -29,7 +29,7 @@ func getMovie(db *sql.DB, name string) {
 }
 
 func getMovieGeneric(db *sql.DB, name string, model interface{}) {
-	fmt.Println("Not yet implemented!")
+	fmt.Println("Not implemented yet!")
 }
 
 func main() {
