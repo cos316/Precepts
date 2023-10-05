@@ -1,5 +1,4 @@
-# Precept 6 - SQL
+Precept 5 - Cache Eviction
 
-SQLite - https://www.sqlite.org
-DB Browser for SQLite - https://sqlitebrowser.org
-GroupLens datasets - https://grouplens.org/datasets/movielens
+Uses a simulator for CDN caching and web caching policies, developed by Daniel Berger (CMU) https://www.cs.cmu.edu/~dberger1
+The software is maintain at: https://github.com/dasebe/webcachesim
